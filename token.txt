@@ -1,3 +1,11 @@
 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
+<<<<<<< HEAD
 
 nataly: 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
+=======
+<<<<<<< HEAD
+token luana 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
+=======
+otton: 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
+>>>>>>> 837bb94a7042d60cf801b65c93d59b7f9cabb491
+>>>>>>> 8e7a0416e5517acebbfa58fc0f49025d4b6a370d
